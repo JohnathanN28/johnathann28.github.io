@@ -1,0 +1,9 @@
+.ubuntu {
+    font-family: Ubuntu, helvetica, sans-serif;
+    font-weight: 500;
+}
+
+body {
+    background: rgb(174,241,194);
+    background: linear-gradient(90deg, rgba(174,241,194,1) 0%, rgba(109,180,171,1) 59%, rgba(137,235,255,1) 100%);
+}
